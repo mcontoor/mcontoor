@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mcontoor" alt="mcontoor" /> </p>
 
-- 🔭 I’m currently working at **a point of sale software startup**
+- 🔭 I’m currently looking for **exciting opportunities**
 
-- 🌱 I’m currently learning **AWS infrastructure**
+- 🌱 I’m currently learning **Google App Scripts**
 
-- 🤝 I’m currently developing my [portfolio](meghnacontoor.codes)
+- 🤝 I’m currently developing tools that I hope will be helpful for devs
 
-- 💬 Ask me about **CSS animations**
+- 💬 Ask me about **CSS Animations**
 
 - 📫 How to reach me **mcontoor@gmail.com**
 
